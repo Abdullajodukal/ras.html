@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>ABDULLA JODUKAL</h1>
+    <IMG SRC="Untitled design.png.PNG" height="150">
+        <h1>SUMMARY</h1>
+    <p>Motivated and customer-focused Retail Sales Assistant and Instashop Delivery Operator with experience in sales, inventory management, and efficient delivery operations. Currently expanding skills in Full-Stack Web Development and Digital Marketing to transition into the tech industry. Passionate about leveraging technology to enhance business processes and customer experiences. Quick learner with strong problem-solving abilities and a commitment to continuous growth</p>
+    <hr/>
+    <h1>EDUCARION</h1>
+<ul>
+    <li>Bachelor of Commerce (B.Com) in Cooperation-university of kannur(2017-2020)</li>
+</ul>
+<hr/>
+<h1>WORK EXPERIENCE</h1>
+<ul>
+    <li>Retail sales Assistant-al madina (2022-Preasent)</li>
+    <ul>
+        <li><h4>Customer Assistance & Sales</h4> - Helping customers find products, answering their questions, and promoting sales to enhance the shopping experience.</li>
+        <li><h4>Stock Management & Merchandising</h4> - Organizing shelves, restocking items, and ensuring the store layout is attractive and easy to navigate</li>
+        <li><h4>Efficient Order Fulfillment</h4>- Accurately picked and packed customer orders from store inventory, ensuring timely and error-free deliveries through the Instashop platform</li>
+    </ul>
+</ul>
+<hr/>
+<h1>SKILLS</h1>
+<UL>
+    <H4><li>HTML CODING BEGINNER</li></H4><IMG src="five-golden-stars-product-rating-review-for-apps-and-websites-vector.jpg" height="30">
+    <H4><LI>PROBLEM SOLVING</LI></H4><IMG src="R.png" height="20"
+    <h4><LI>MICROSOFT EXCEL</LI></h4><IMG src="./R.png" height=""
+    <H4><LI>GOOGLE SHEET</LI></H4>
+    <H4><LI>DIGITAL MARKETING BEGINNER</LI></H4>
+    <H4><LI>ETC</LI></H4>
+</UL>
+<HR/>
+<H1>AWARDS AND CERTIFICATIONS</H1>
+<UL>
+    <H4><LI>ATLAS MAKING</LI></H4>
+    <H4><LI>GROUP COMMUNITY AWARD</LI></H4>
+</UL>
+<HR/>
+<h1>OTHER</h1>
+<UL>
+    <LI><A href="../index.html">My Project</A></LI>
+    <li><a href="../project-01/contact.html">Contact</a></li>
+</UL>
+<footer>
+    <p>@abdulla jodukal. All Rights Reserved.</p>
+</footer>
+    
+</body>
+</html>
